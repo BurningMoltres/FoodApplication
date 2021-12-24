@@ -53,7 +53,7 @@ export default function MainItems() {
           {counter++}
           </div>
         </div>
-                   
+                  //completed 
         ))
       }
       </div>
