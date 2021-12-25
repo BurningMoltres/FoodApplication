@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 export default function Header() {
 
     const[cartBadgeState,changeCartBadgeState]=useContext(foodApplicationContext);
-
+//<!--commit for git-->
     return (
         <div >
 

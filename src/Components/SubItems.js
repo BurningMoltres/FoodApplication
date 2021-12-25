@@ -16,7 +16,7 @@ export default function SubItems() {
     const[cartBadgeState,changeCartBadgeState]=useContext(foodApplicationContext);
     const[SelectedArrayItemState,changeSelectedArrayItemState]=useContext(SelectedArrayContext);
  
-
+//<!--commit for git-->
     function handleAddedItems(e)
     {
         e.preventDefault();
